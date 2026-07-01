@@ -74,3 +74,7 @@ npm run dev
 
 ---
 *Developed independently as a Solo Creator for the official Vibe2Ship Hackathon challenge.*
+
+## 🔗 Live Demo
+👉 [Launch TalentNexus AI](https://clutchai-productivit-df5q.bolt.host)
+
